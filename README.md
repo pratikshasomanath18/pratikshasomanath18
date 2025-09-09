@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I am Pratiksha Somanath 
 🌱 Aspiring Data Analysis.<br><br>🛠️ Skilled in Power BI, SQL, Figma,  HTML, CSS, Python, MS Office.<br><br>📊 Interested in Data Analytics.<br><br>🚀 Open to internships and job opportunities<br><br>📫 Reach me at: pratikshasomanath@gmail.com
 
 
